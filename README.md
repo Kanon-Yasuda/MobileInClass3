@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # inclass_act03
 
 # 🎛️ RPG ATTACKING SYSTEM (Flutter)
@@ -14,3 +15,6 @@ A sleek, interactive 3D Neomorphic control deck built with Flutter & Dart, demon
 - **Framework**: Flutter (Material 3)
 - **Language**: Dart
 - **Key Widgets**: `StatefulWidget`, `GestureDetector`, `AnimatedContainer`, `Slider`, `Wrap`
+=======
+# MobileInClass3
+>>>>>>> 4211b8123ce100085b500a2b14736ee1f2e39787
